@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="goa-panel.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  units="px" inkscape:cy="305.96272" inkscape:cx="186.7119" inkscape:zoom="0.65996633" showgrid="false" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" id="base" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-x="0" inkscape:window-height="716" inkscape:window-width="1360" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	</sodipodi:namedview>
+<path fill="#FFC64A" d="M509.468,256.003c0,140.274-113.717,253.992-253.997,253.992c-140.283,0-253.997-113.718-253.997-253.992
+	C1.474,115.72,115.188,2.005,255.471,2.005C395.751,2.005,509.468,115.72,509.468,256.003z"/>
+<path fill="#FEE365" d="M117.314,335.187l196.893-154.959l192.182,115.415c0,0-14.186,159.28-194.537,208.069"/>
+<g id="layer1" transform="translate(0,-540.36216)" inkscape:label="Capa 1" inkscape:groupmode="layer">
+	<path id="path4535" inkscape:connector-curvature="0" fill="#56B3E5" d="M254.528,698.714
+		c41.452,0.044,77.784,27.584,88.821,67.327c4.578-1.026,9.337-1.575,14.225-1.575c35.773,0,64.771,29,64.771,64.772
+		c0,35.772-28.998,64.772-64.771,64.772H165.222c-41.734,0-75.567-36.471-75.567-81.457s33.833-81.454,75.567-81.454
+		c5.927,0,11.692,0.739,17.226,2.129C199.948,711.421,226.475,698.719,254.528,698.714L254.528,698.714z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M254.528,698.714c41.452,0.044,77.784,27.584,88.821,67.327c4.578-1.026,9.337-1.575,14.225-1.575
+				c35.773,0,64.771,29,64.771,64.772c0,35.772-28.998,64.772-64.771,64.772H165.222c-41.734,0-75.567-36.471-75.567-81.457
+				s33.833-81.454,75.567-81.454c5.927,0,11.692,0.739,17.226,2.129C199.948,711.421,226.475,698.719,254.528,698.714
+				L254.528,698.714z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="path6401_1_" gradientUnits="userSpaceOnUse" x1="-617.1514" y1="762.1517" x2="-195.1285" y2="399.0968" gradientTransform="matrix(1 0 0 -1 564 1287.3621)">
+			<stop  offset="0" style="stop-color:#000000;stop-opacity:0.6553"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path6401" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" clip-path="url(#SVGID_2_)" fill="url(#path6401_1_)" d="
+			M378.715,973.132l-169.448-97.831l25.07-93.261l43.92,25.358l3.154-6.414l-47.576-27.468l31.589-50.642l169.447,97.832
+			L378.715,973.132z"/>
+	</g>
+	<path id="path3816-5" inkscape:connector-curvature="0" fill="#FFFFFF" d="M253.307,720.589c-16.484,0-29.839,13.366-29.839,29.85
+		c0,16.485,13.355,29.851,29.839,29.851c16.485,0,29.851-13.366,29.851-29.851C283.158,733.955,269.792,720.589,253.307,720.589z
+		 M279.637,781.129c-3.127-0.028-6.426,0.431-6.426,0.431l-16.791,14.186l9.494,44.576v0.034h-0.033l-11.458,12.629l-11.47-12.629
+		h-0.021v-0.034l9.482-44.488c-2.713-2.163-11.575-9.222-18.071-14.273c0,0-6.104-0.841-8.975,0
+		c-9.409,2.757-19.334,7.707-24.762,15.874c-5.47,8.233-5.672,19.344-5.089,29.211c1.004,16.981,14.605,48.904,14.605,48.904h88.59
+		c0,0,13.602-31.923,14.605-48.904c0.583-9.867,0.392-20.978-5.078-29.211c-5.427-8.167-15.36-13.117-24.772-15.874
+		C282.441,781.259,281.058,781.141,279.637,781.129L279.637,781.129z"/>
+</g>
+</svg>

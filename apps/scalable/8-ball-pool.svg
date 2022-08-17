@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.91+devel r14033 custom" sodipodi:docname="8-ball-pool.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1920px" height="1080px"
+	 viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+<sodipodi:namedview  pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" inkscape:zoom="0.4609375" inkscape:cx="-133.42373" inkscape:cy="256" showgrid="false" id="namedview38" inkscape:pageopacity="0" inkscape:current-layer="svg2" inkscape:pageshadow="2" inkscape:window-width="960" inkscape:window-height="1011" inkscape:window-x="0" inkscape:window-y="27" inkscape:window-maximized="0" guidetolerance="10" gridtolerance="10" objecttolerance="10">
+	</sodipodi:namedview>
+<circle fill="#FFEB50" cx="942.486" cy="540" r="523.5"/>
+<path fill="#F7D139" d="M1465.986,540c0-6.304-0.151-12.574-0.372-18.826l-230.528-230.526L670.487,811.686l251.372,251.372
+	c6.847,0.267,13.715,0.442,20.627,0.442C1231.607,1063.5,1465.986,829.122,1465.986,540z"/>
+<circle fill="#333333" cx="942.486" cy="540" r="384.445"/>
+<path fill="#1A1A1A" d="M942.486,155.555c-0.032,0-0.065,0-0.099,0v768.891c0.033,0,0.066,0,0.099,0
+	c212.324,0,384.445-172.121,384.445-384.445S1154.811,155.555,942.486,155.555z"/>
+<circle fill="#FFFFFF" cx="942.486" cy="475.626" r="231.322"/>
+<path fill="#E0E0E0" d="M942.486,244.288c-0.032,0-0.065,0-0.099,0V706.95c0.033,0,0.066,0,0.099,0
+	c127.76,0,231.332-103.572,231.332-231.332C1173.818,347.857,1070.246,244.288,942.486,244.288z"/>
+<path fill="#1A1A1A" d="M843.105,520.351c0-31.582,18.221-53.446,46.968-65.998v-1.215c-25.508-12.957-38.06-34.417-38.06-57.496
+	c0-44.539,40.085-74.095,92.721-74.095c61.543,0,87.05,35.631,87.05,67.617c0,22.674-12.145,44.944-38.059,57.9v1.216
+	c25.509,9.717,48.183,31.582,48.183,65.593c0,47.777-40.084,79.761-101.224,79.761C873.877,593.637,843.105,555.98,843.105,520.351z
+	 M979.15,518.326c0-23.079-17.006-36.845-41.3-43.324c-20.245,5.669-31.987,20.245-31.987,39.274
+	c-0.404,19.03,14.171,36.846,37.251,36.846C964.979,551.122,979.15,536.951,979.15,518.326z M909.913,393.621
+	c0,17.815,16.195,29.152,37.25,35.631c14.172-4.049,26.721-17.006,26.721-33.607c0-16.195-9.313-32.391-31.986-32.391
+	C920.845,363.253,909.913,377.02,909.913,393.621z"/>
+<path d="M1042.023,513.887c0-34.011-22.675-55.876-48.183-65.593v-1.215c25.913-12.957,38.058-35.227,38.058-57.9
+	c0-31.986-25.508-67.617-87.05-67.617c-0.788,0-1.563,0.028-2.344,0.041v41.686c22.306,0.24,31.497,16.293,31.497,32.368
+	c0,16.601-12.552,29.558-26.721,33.607c-1.625-0.502-3.21-1.042-4.774-1.599v48.677c21.845,6.942,36.759,20.386,36.759,41.999
+	c0,18.623-14.172,32.797-36.038,32.797c-0.247,0-0.479-0.03-0.724-0.034v42.52C1002.677,593.027,1042.023,561.214,1042.023,513.887z
+	"/>
+</svg>

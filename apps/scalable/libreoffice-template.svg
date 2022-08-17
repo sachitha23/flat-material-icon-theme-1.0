@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg3613" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="libreoffice-template.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="260.33499" inkscape:cx="284.597" inkscape:zoom="0.15686677" showgrid="false" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" id="base" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="717" inkscape:window-width="1360" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:guide-bbox="true" fit-margin-left="0" fit-margin-top="0" showguides="true" fit-margin-bottom="0" fit-margin-right="0">
+	</sodipodi:namedview>
+<path fill="#038CBB" d="M510.468,256.003c0,140.274-113.717,253.992-253.997,253.992c-140.283,0-253.997-113.718-253.997-253.992
+	C2.474,115.72,116.188,2.005,256.471,2.005C396.751,2.005,510.468,115.72,510.468,256.003z"/>
+<path fill="#0276A9" d="M128.5,401.5l251-307l127.44,119.096c0,0,40.337,261.734-244.052,296.319"/>
+<g id="layer1" transform="translate(-24,-476.36222)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<path id="rect5617" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" fill="#6F7C91" d="M174.104,564.082h212.734
+		c15.536,0,28.044,12.507,28.044,28.043V858.51c0,15.536-12.508,28.044-28.044,28.044H174.104
+		c-15.537,0-28.044-12.508-28.044-28.044V592.125C146.06,576.589,158.567,564.082,174.104,564.082z"/>
+	<path id="rect5621" inkscape:connector-curvature="0" sodipodi:nodetypes="cssscssscc" fill="#FFFFFF" fill-opacity="0.2299" d="
+		M414.882,734.47v124.04c0,7.769-3.127,14.779-8.196,19.849c-5.068,5.068-12.08,8.195-19.848,8.195H260.641h-86.537
+		c-7.768,0-14.779-3.127-19.848-8.195c-5.069-5.069-8.196-12.08-8.196-19.849V734.47H414.882z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M174.104,564.082h212.734c15.536,0,28.044,12.507,28.044,28.043V858.51
+				c0,15.536-12.508,28.044-28.044,28.044H174.104c-15.537,0-28.044-12.508-28.044-28.044V592.125
+				C146.06,576.589,158.567,564.082,174.104,564.082z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="path1047_1_" gradientUnits="userSpaceOnUse" x1="-477.6294" y1="725.7479" x2="-142.0465" y2="396.2665" gradientTransform="matrix(1 0 0 -1 528.4575 1228.9968)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path1047" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" clip-path="url(#SVGID_2_)" fill="url(#path1047_1_)" d="
+			M519.599,872.917L319.774,673.092l-3.813,3.623l-29.592-29.581l-62.427,58.206l24.59,26.699l-22.641,33.714L423.429,963.29
+			L519.599,872.917z"/>
+	</g>
+	
+		<path id="path66-5-8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccsscccscccsscccscccsscccscccsscccsc" fill="#FFFFFF" d="
+		M274.545,643.317c-8.861,0-16.044,4.974-16.044,11.108c0.258,2.289,1.704,5.179,2.468,6.171c3.703,4.938,3.703,8.022,2.777,9.874
+		h-29.93c-5.471,0-9.874,4.404-9.874,9.874v24.996c1.851,0.926,4.937,0.926,9.874-2.777c0.992-0.764,3.883-2.21,6.171-2.468
+		c6.135,0,11.109,7.182,11.109,16.045c0,8.862-4.974,16.045-11.109,16.045c-1.882-0.032-4.746-1.716-6.171-2.469
+		c-4.937-3.702-8.022-3.702-9.874-2.776v32.4c0,5.47,4.403,9.874,9.874,9.874h39.806c0.925-1.852,0.925-4.938-2.777-9.874
+		c-0.763-0.992-2.21-3.883-2.468-6.171c0-6.136,7.182-11.108,16.044-11.108c8.862,0,16.045,4.973,16.045,11.108
+		c-0.032,1.883-1.715,4.745-2.468,6.171c-3.703,4.937-3.703,8.022-2.777,9.874h17.588c5.471,0,9.874-4.404,9.874-9.874v-27.462
+		c1.852-0.925,4.937-0.925,9.874,2.777c1.426,0.752,4.288,2.436,6.171,2.468c6.136,0,11.108-7.182,11.108-16.045
+		c0-8.861-4.973-16.045-11.108-16.045c-2.289,0.258-5.179,1.705-6.171,2.469c-4.938,3.703-8.022,3.703-9.874,2.777v-29.931
+		c0-5.47-4.403-9.874-9.874-9.874h-27.462c-0.926-1.852-0.926-4.938,2.777-9.874c0.752-1.426,2.437-4.288,2.468-6.171
+		c0-2.616-1.305-5.021-3.49-6.919c-2.939-2.553-7.47-4.189-12.555-4.189"/>
+</g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg3613" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="libreoffice-math.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="19.736667" inkscape:cx="533.40088" inkscape:zoom="0.62746708" showgrid="false" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" id="base" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="717" inkscape:window-width="1360" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:guide-bbox="true" fit-margin-left="0" fit-margin-top="0" showguides="true" fit-margin-bottom="0" fit-margin-right="0">
+	</sodipodi:namedview>
+<path fill="#0490A4" d="M512,256.003c0,140.274-113.717,253.992-253.997,253.992c-140.283,0-253.997-113.718-253.997-253.992
+	C4.006,115.72,117.72,2.005,258.003,2.005C398.283,2.005,512,115.72,512,256.003z"/>
+<path fill="#024A60" d="M130.032,401.5l251-307l127.44,119.096c0,0,40.337,261.734-244.052,296.319"/>
+<g id="layer1" transform="translate(-24,-476.36222)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<path id="rect5617" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" fill="#5B6188" d="M169.998,561.314h211.735
+		c15.462,0,27.91,12.449,27.91,27.912v265.132c0,15.462-12.448,27.911-27.91,27.911H169.998c-15.464,0-27.912-12.449-27.912-27.911
+		V589.226C142.085,573.763,154.534,561.314,169.998,561.314z"/>
+	<path id="path5632-0" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="20" d="M269.514,800.437
+		l30.06,34.352"/>
+	<path id="rect5621" inkscape:connector-curvature="0" sodipodi:nodetypes="cssscssscc" fill="#FFFFFF" fill-opacity="0.2299" d="
+		M409.643,730.902v123.457c0,7.73-3.111,14.709-8.157,19.754c-5.044,5.045-12.022,8.157-19.753,8.157H256.128h-86.13
+		c-7.731,0-14.709-3.112-19.755-8.157c-5.045-5.045-8.157-12.023-8.157-19.754V730.902H409.643z"/>
+	
+		<path id="path5626-1" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="
+		M213.689,812.246l20.398,24.691l11.809-56.898l92.324,1.074"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M169.998,579.533h211.735c15.462,0,27.91,12.448,27.91,27.912v246.914
+				c0,15.462-12.448,27.911-27.91,27.911H169.998c-15.464,0-27.912-12.449-27.912-27.911V607.445
+				C142.085,591.981,154.534,579.533,169.998,579.533z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="path1047_1_" gradientUnits="userSpaceOnUse" x1="-457.6895" y1="756.3378" x2="-123.6837" y2="428.4049" gradientTransform="matrix(1 0 0 -1 540 1230.1238)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path1047" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" clip-path="url(#SVGID_2_)" fill="url(#path1047_1_)" d="
+			M522.364,806.39L323.479,607.505l-28.086,37.956l-34.161-36.437l-18.933,8.931l-9.154,103.416l196.608,196.608L522.364,806.39z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 224.1255 722.2372)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="160.0147">M</text>
+	<path id="path5628-2" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="20" d="M299.573,800.437
+		l-30.06,34.352"/>
+</g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg3613" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="libreoffice-main.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="289.06183" inkscape:cx="334.76235" inkscape:zoom="0.44368623" showgrid="false" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" id="base" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="717" inkscape:window-width="1360" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:guide-bbox="true" fit-margin-left="0" fit-margin-top="0" showguides="true" fit-margin-bottom="0" fit-margin-right="0">
+	</sodipodi:namedview>
+<path fill="#6C50A1" d="M509.997,256.003c0,140.274-113.717,253.992-253.997,253.992c-140.283,0-253.997-113.718-253.997-253.992
+	C2.003,115.72,115.717,2.005,256,2.005C396.28,2.005,509.997,115.72,509.997,256.003z"/>
+<path fill="#5C2B81" d="M128.029,401.5l251-307l127.44,119.096c0,0,40.337,261.734-244.052,296.319"/>
+<g id="layer1" transform="translate(-24,-476.36222)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<path id="rect5617" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" fill="#6F918A" d="M178.728,570.102h214.085
+		c15.636,0,28.222,12.587,28.222,28.222V866.4c0,15.636-12.586,28.222-28.222,28.222H178.728c-15.635,0-28.222-12.586-28.222-28.222
+		V598.324C150.506,582.689,163.093,570.102,178.728,570.102z"/>
+	<path id="rect5621" inkscape:connector-curvature="0" sodipodi:nodetypes="cssscssscc" fill="#FFFFFF" fill-opacity="0.2299" d="
+		M421.035,741.151v124.827c0,7.818-3.146,14.873-8.248,19.975c-5.101,5.101-12.156,8.247-19.974,8.247H265.814h-87.086
+		c-7.817,0-14.873-3.146-19.975-8.247c-5.101-5.102-8.247-12.156-8.247-19.975V741.151H421.035z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M178.728,578.891h214.085c15.636,0,28.222,12.587,28.222,28.222v268.076
+				c0,15.636-12.586,28.222-28.222,28.222H178.728c-15.635,0-28.222-12.586-28.222-28.222V607.113
+				C150.506,591.478,163.093,578.891,178.728,578.891z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="path1047_1_" gradientUnits="userSpaceOnUse" x1="-453.8516" y1="731.6317" x2="-116.136" y2="400.0564" gradientTransform="matrix(1 0 0 -1 528.4575 1228.9968)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path1047" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" clip-path="url(#SVGID_2_)" fill="url(#path1047_1_)" d="
+			M569.976,848.816L368.881,647.723c-20.726-0.23-42.01,0.016-57.794,20.969l-11.973-13.693l-70.231,87.785l3.88,44.816
+			l198.792,198.792L569.976,848.816z"/>
+	</g>
+	<path id="Documents-6-9" inkscape:connector-curvature="0" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M299.114,654.999
+		l-59.842,76.594c-11.221,14.362-8.08,39.943,6.281,51.164c14.362,11.221,39.943,8.079,51.164-6.281l59.843-76.595l7.479-9.574
+		c7.481-9.574,5.388-26.629-4.188-34.109c-9.575-7.48-26.629-5.387-34.11,4.188l-7.479,9.574l-44.881,57.447l-7.48,9.574
+		c-3.741,4.787-2.694,13.314,2.094,17.054c4.787,3.741,13.314,2.694,17.055-2.094l52.361-67.02l9.574,7.48l-52.361,67.02
+		c-7.48,9.575-24.536,11.669-34.109,4.188c-9.575-7.48-11.669-24.535-4.188-34.109l7.48-9.574l52.362-67.02
+		c11.221-14.362,36.802-17.502,51.163-6.282c14.362,11.22,17.503,36.802,6.282,51.164l-7.479,9.574l-59.843,76.594
+		c-14.961,19.149-49.069,23.337-68.218,8.377c-19.148-14.961-23.337-49.07-8.376-68.219l59.842-76.594L299.114,654.999z"/>
+</g>
+</svg>

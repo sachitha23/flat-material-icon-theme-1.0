@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="user-home.svg" inkscape:version="0.91 r13725" inkscape:export-ydpi="100" inkscape:export-xdpi="100" inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="218.40016" inkscape:cx="328.16944" inkscape:zoom="2.32" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="1" inkscape:window-y="30" inkscape:current-layer="svg2" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:window-x="0" inkscape:window-height="834" inkscape:window-width="1600" inkscape:pageshadow="2" inkscape:object-paths="false" inkscape:object-nodes="true" inkscape:guide-bbox="true" inkscape:snap-nodes="true" inkscape:snap-smooth-nodes="true" inkscape:snap-intersection-paths="false" showguides="true">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-540.36218)" inkscape:label="Livello 1" inkscape:groupmode="layer">
+</g>
+<g id="g2036" transform="matrix(1.1,0,0,0.44444,95.081063,256.39254)">
+	<g id="g3712" transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)" opacity="0.4">
+	</g>
+</g>
+<g id="g3541" transform="translate(97.481063,231.28154)">
+</g>
+<g id="g3536" transform="translate(97.481063,231.28154)">
+</g>
+<g id="g4076" transform="translate(-605.51932,-353.96833)">
+	<g id="g4038" transform="translate(-926.66758,684.38448)">
+	</g>
+</g>
+<path fill="#F6C358" d="M458.29,423.685H62.412c-14.575,0-26.391-11.815-26.391-26.391V97.566c0-11.661,9.451-21.114,21.111-21.114
+	h95.095c5.819,0,11.377,2.4,15.368,6.637l37.228,39.513c3.989,4.233,9.55,6.635,15.368,6.635h243.372
+	c11.661,0,21.115,9.454,21.115,21.115v246.942C484.681,411.87,472.863,423.685,458.29,423.685z"/>
+<path fill="#FCD462" d="M434.359,399.757H38.483c-14.574,0-26.391-11.814-26.391-26.391V73.638c0-11.661,9.452-21.113,21.112-21.113
+	h95.095c5.819,0,11.377,2.4,15.368,6.636l37.227,39.512c3.989,4.234,9.551,6.637,15.368,6.637h243.373
+	c11.661,0,21.114,9.452,21.114,21.111v246.946C460.752,387.942,448.935,399.757,434.359,399.757z"/>
+<path fill="#FF856E" d="M344.127,253.281c0,27.938-10.656,53.327-28.109,72.483c-19.666,21.651-48.058,35.195-79.568,35.195
+	c-31.566,0-59.903-13.544-79.625-35.195c-17.457-19.156-28.052-44.545-28.052-72.483c0-59.505,48.171-107.679,107.679-107.679
+	C295.9,145.602,344.127,193.776,344.127,253.281z"/>
+<polygon fill="#E7ECED" points="235.947,161.288 168.467,223.946 168.467,237.57 168.467,325.585 303.427,325.585 303.427,237.57 
+	303.427,223.946 "/>
+<rect x="191.94" y="222.899" fill="#25AE88" width="35.205" height="35.205"/>
+<rect x="244.75" y="222.899" fill="#25AE88" width="35.205" height="35.205"/>
+<rect x="191.94" y="275.709" fill="#25AE88" width="35.205" height="35.207"/>
+<rect x="244.75" y="275.709" fill="#25AE88" width="35.205" height="35.207"/>
+<polyline fill="none" stroke="#556080" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" points="153.799,237.57 
+	235.947,161.288 318.096,237.57 "/>
+</svg>

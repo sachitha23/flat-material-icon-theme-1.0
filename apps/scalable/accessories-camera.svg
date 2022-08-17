@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.91 r13725" sodipodi:docname="accessories-camera.svg" inkscape:export-xdpi="90" inkscape:export-filename="/home/silerio/ImÃ¡genes/CANARA0.png" inkscape:export-ydpi="90"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" inkscape:zoom="0.22799422" inkscape:cx="-140.70288" inkscape:cy="247.20229" showgrid="false" id="namedview4" inkscape:document-units="px" inkscape:pageopacity="0" inkscape:current-layer="svg2" inkscape:pageshadow="2" inkscape:window-width="1360" inkscape:window-height="716" inkscape:window-x="0" inkscape:window-y="24" inkscape:window-maximized="1" guidetolerance="10" gridtolerance="10" objecttolerance="10" showguides="true" inkscape:guide-bbox="true">
+	</sodipodi:namedview>
+<g id="g3851" transform="translate(-188.82406,1.1047704)">
+</g>
+<circle fill="#71D456" cx="256" cy="256" r="241.001"/>
+<polygon fill="#4F5565" points="449.507,208.827 295.792,208.827 259.851,190.856 62.494,190.856 62.494,372.489 449.507,372.489 
+	"/>
+<g>
+	<path fill="#F1F3F7" d="M62.494,372.489v2.888c0,8.022,6.417,14.44,14.44,14.44h358.452c8.023,0,14.441-6.418,14.441-14.44v-2.888
+		H62.494z"/>
+	<path fill="#F1F3F7" d="M295.792,208.827h153.715v-72.524c0-8.022-6.418-14.44-14.44-14.44H202.729
+		c-12.836,0-23.105,10.269-23.105,23.105H80.143c-9.627,0-17.649,8.022-17.649,17.65v27.918h197.678L295.792,208.827z"/>
+</g>
+<circle fill="#DEDEDF" cx="256" cy="284.56" r="105.578"/>
+<circle fill="#FCFCFD" cx="256" cy="284.561" r="88.249"/>
+<circle fill="#646B79" cx="256" cy="284.561" r="75.734"/>
+<circle fill="#4F5565" cx="256" cy="284.56" r="54.233"/>
+<circle fill="#0090FF" cx="256" cy="284.56" r="28.56"/>
+<path fill="#4484C5" d="M410.035,190.856h-67.712c-2.566,0-4.813-2.247-4.813-4.813v-44.927c0-2.568,2.247-4.813,4.813-4.813h67.712
+	c2.567,0,4.813,2.247,4.813,4.813v44.927C414.849,188.609,412.602,190.856,410.035,190.856z"/>
+<path fill="#4F5565" d="M151.384,126.995h-49.419c-4.493,0-8.023,3.209-8.023,6.74v11.232h65.786v-11.232
+	C159.728,130.204,155.877,126.995,151.384,126.995z"/>
+</svg>

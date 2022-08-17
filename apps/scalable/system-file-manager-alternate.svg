@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg3613" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="system-file-manager.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="377.10536" inkscape:cx="-26.481515" inkscape:zoom="0.44368624" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="1" inkscape:window-y="25" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:window-x="0" inkscape:window-height="717" inkscape:window-width="1360" inkscape:pageshadow="2" fit-margin-bottom="0" fit-margin-right="0" inkscape:guide-bbox="true" fit-margin-top="0" fit-margin-left="0" showguides="true">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-24,-476.36222)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<path id="rect3151" fill="#473212" d="M83.208,532.572h391.432c16.524,0,29.921,13.396,29.921,29.921v363.395
+		c0,16.524-13.396,29.921-29.921,29.921H83.208c-16.525,0-29.921-13.396-29.921-29.921V562.493
+		C53.288,545.968,66.684,532.572,83.208,532.572z"/>
+	<path fill="#F6C358" d="M444.854,888.146H116.608c-12.085,0-21.198-9.798-20.352-21.883l17.378-248.523
+		c0.676-9.669,9.063-17.506,18.73-17.506h78.85c4.824,0,9.294,1.991,12.357,5.501l28.577,32.763
+		c3.063,3.511,7.534,5.502,12.358,5.502h201.796c9.669,0,16.958,7.838,16.282,17.506l-14.318,204.758
+		C467.422,878.349,456.938,888.146,444.854,888.146z"/>
+	<path fill="#FCD462" d="M444.303,888.146H116.058c-12.085,0-22.568-9.796-23.413-21.882L75.266,617.74
+		c-0.676-9.669,6.614-17.506,16.282-17.506h78.85c4.824,0,9.573,1.991,13.127,5.501l33.158,32.762
+		c3.553,3.511,8.303,5.502,13.127,5.502h201.796c9.668,0,18.056,7.838,18.731,17.506l14.317,204.758
+		C465.501,878.35,456.388,888.146,444.303,888.146z"/>
+	<path id="rect3921" fill="#A36127" d="M55.887,682.855h446.075c9.818,0,17.778,7.959,17.778,17.778v217.16
+		c0,9.818-7.96,17.778-17.778,17.778H55.887c-9.818,0-17.778-7.96-17.778-17.778v-217.16
+		C38.109,690.815,46.068,682.855,55.887,682.855z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M55.887,682.855h446.075c9.818,0,17.778,7.959,17.778,17.778v217.16c0,9.818-7.96,17.778-17.778,17.778
+				H55.887c-9.818,0-17.778-7.96-17.778-17.778v-217.16C38.109,690.814,46.068,682.855,55.887,682.855z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="path4384_1_" gradientUnits="userSpaceOnUse" x1="-1041.0889" y1="1336.3651" x2="-129.0246" y2="701.9072" gradientTransform="matrix(1 0 0 -1 564 1699.7244)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</linearGradient>
+		
+			<path id="path4384" sodipodi:nodetypes="sscsscssscscsss" inkscape:connector-curvature="0" opacity="0.87" clip-path="url(#SVGID_2_)" fill="url(#path4384_1_)" enable-background="new    " d="
+			M246.473,758.194c-18.188,0-33.078,14.996-33.078,33.184v17.111v17.113c0,9.094,3.723,17.363,9.719,23.359l530.826,530.826
+			c5.996,5.996,14.266,9.719,23.359,9.719h64.799c18.188,0,33.184-14.891,33.184-33.078v-17.111v-17.113
+			c0-9.094-3.75-17.39-9.771-23.412L334.684,767.966c-6.021-6.021-14.318-9.771-23.412-9.771H246.473z"/>
+	</g>
+	<g id="g4010" transform="matrix(3.9510647,0,0,3.9510647,-70.978719,-2940.5425)">
+		<g id="g4002" transform="translate(-2.1910256,0.51614658)">
+			<path id="rect3961" sodipodi:nodetypes="sscsssscssscsssscc" inkscape:connector-curvature="0" fill="#47260F" d="
+				M82.537,935.621c-4.603,0-8.372,3.795-8.372,8.398v4.331v4.331c0,4.603,3.769,8.372,8.372,8.372h16.4
+				c4.603,0,8.398-3.769,8.398-8.372v-4.331v-4.331c0-4.603-3.795-8.398-8.398-8.398H82.537z M101.842,948.35v4.331
+				c0,1.655-1.25,2.879-2.905,2.879h-16.4c-1.655,0-2.879-1.224-2.879-2.879v-4.331H101.842z"/>
+		</g>
+	</g>
+</g>
+</svg>
